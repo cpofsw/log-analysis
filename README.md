@@ -40,4 +40,4 @@ Run the script:
 
 `python main.py`
 
-The answers that the reporting tool provides can be viewed in this file : `out.txt`.
+The answers that the reporting tool provides can be viewed in this file : `answers.txt`.
