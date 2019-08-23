@@ -36,8 +36,16 @@ Then in the shell, to import the data: [Download newsdata.sql](https://d17h27t6h
 
 `psql -d news -f newsdata.sql`
 
+## Requirements :
+
+1 - A linux system (Used Ubuntu 18.04 LTS) [Download Ububtu](https://ubuntu.com/)
+2 - POSTGRESQL (Used Postgresql 11) [Download Postgresql](https://www.postgresql.org/download/)
+3 - Psycopg2 [Download and install Psycopg2](https://pynative.com/python-postgresql-tutorial/)
+
+##How to Run :
+
 Run the script:
 
-`python main.py`
+`logs_reporter.py`
 
 The answers that the reporting tool provides can be viewed in this file : `answers.txt`.
